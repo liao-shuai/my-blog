@@ -1,0 +1,10 @@
+1， 写项目之前，做好需求分析，形成详细的需求文档。
+
+2，先设计架构 运维标准化自动化 表结构设计好才开始写代码，没有定义好表结构就不要写代码。表结构定义好了，业务逻辑也会更明了。
+
+
+
+没做的项目练习，如下：
+http://download.csdn.net/download/tobacco5648/9417643
+http://wxpy.readthedocs.io/zh/latest/index.html
+小练习：https://github.com/Yixiaohan/show-me-the-code/blob/master/README.md

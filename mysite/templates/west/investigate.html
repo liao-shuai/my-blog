@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<!--<form action="/wset/investigate/" method="post">-->
+    <!--{% csrf_token %}-->
+    <!--<input type="text" name="staff">-->
+    <!--<input type="submit" value="submit">-->
+<!--</form>>-->
+
+
+<form action="/west/investigate/" method="post">
+  {% csrf_token %}
+  {{ form.as_p }}  #  http://www.jb51.net/article/87046.htm  可查看文档
+  <input type="submit" value="Submit">
+</form>
+
+{% for person in staff %}
+<p>{{ person }}</p>
+{% endfor %}
+<p>{{ rel }}</p>>
+</body>
+</html>

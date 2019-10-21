@@ -116,7 +116,7 @@ w3lib==1.18.0
 wcwidth==0.1.7
 webencodings==0.5.1
 wechatsogou==4.0.2
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 widgetsnbextension==3.1.0
 win-unicode-console==0.5
 xlrd==1.1.0
